@@ -77,7 +77,7 @@ color_codes = ["#FF0000", "#00FF00", "#0000FF", "#123ABC", "#abc123", "#1234567"
 
 ```
 
-The pattern `#[0-9A-Fa-f]{6}` matches a "#" character followed by exactly six hexadecimal digits (0-9, A-F, a-f).
+
 
 Output:
 ```
